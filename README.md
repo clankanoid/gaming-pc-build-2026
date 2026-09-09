@@ -1,28 +1,29 @@
 # Gaming PC Build — eBay Used Parts ($1,200 budget)
 
-**Status:** RESEARCHED, NOT PURCHASED
+**Status:** RESEARCHED, NOT PURCHASED — BUY IT NOW / BEST OFFER ONLY
 **Prices verified live on eBay:** 2026-09-08 (US, ships to 78758)
+**Purchase rule:** no auctions or bidding; every retained listing must show **Buy It Now** (Best Offer is allowed).
 **Budget:** $1,200 (Venmo funds) — before tax
 **Use case:** Omarchy (Arch Linux), CS2-first gaming, 1080p ultra / 1440p high-refresh, upgrade headroom
 **Key decision:** AM4 platform (not AM5) — ~$250 cheaper for equal gaming performance, freeing budget for a 7900-class GPU. 3D V-Cache CPU prioritized for CS2.
 
 ---
 
-## The build — $1,175.90 total (with monitor)
+## The build — $1,072.90 subtotal before RAM + SSD replacement
 
 | # | Part | Listing | Price (ship) | Condition / Seller |
 |---|------|---------|--------------|--------------------|
 | 1 | **GPU** — Sapphire Pulse RX 7900 GRE 16GB | https://www.ebay.com/itm/336780580887 | $515.00 (free) | Used — aaeiken_0, 100% (108), OBO, no returns, MBG |
 | 2 | **CPU** — Ryzen 5 5500X3D | https://www.ebay.com/itm/267610189625 | $209.99 + $5.99 | **New sealed**, free returns — desolate_puppy 99.9% (5.5K), 207 sold |
 | 3 | **Motherboard** — MSI PRO B550M-VC WiFi mATX | https://www.ebay.com/itm/137710051407 | $74.95 (free) | Used — hitexstore 99.6% (173.7K), OBO, free returns |
-| 4 | **RAM** — Corsair Vengeance LPX 32GB (2×16) DDR4-3600 | https://www.ebay.com/itm/820099466086 | $44.00 | Pre-owned |
+| 4 | **RAM** — 32GB (2×16) DDR4-3600 | **REPLACEMENT NEEDED — Buy It Now only** | — | Prior Corsair listing was an auction; do not bid |
 | 5 | **PSU** — Corsair RM850e 850W 80+ Gold | https://www.ebay.com/itm/227491490870 | $54.99 (free) | **Factory refurb via corsairdirect**, 100% (488), 549 sold, free returns |
-| 6 | **SSD** — Crucial P310 1TB Gen4 NVMe | https://www.ebay.com/itm/336783170737 | $59.00 (free) | New |
+| 6 | **SSD** — 1TB Gen4 NVMe | **REPLACEMENT NEEDED — Buy It Now only** | — | Prior Crucial P310 listing was an auction; do not bid |
 | 7 | **Case** — Phanteks XT Pro mesh mid-tower | https://www.ebay.com/itm/296236895993 | $61.99 (free) | New (Newegg on eBay), free returns |
 | 8 | **Monitor** — LG UltraGear 32GP83B-B 32″ 1440p 165Hz IPS | https://www.ebay.com/itm/377472303537 | $149.99 OBO (free) | Used — thirdwavediscounts 99.4% (26.6K), 30-day returns seller-paid, **no power cable included** (any C13 cord works) |
 
-- **PC only: $1,025.91** — $174 under budget
-- **PC + monitor: $1,175.90** — $24 under budget (before TX sales tax; eBay collects it, real ceiling ≈ $1,270–1,290 all-in. Best Offers are the lever to pull under $1,200)
+- **Confirmed Buy It Now subtotal excluding RAM + SSD: $922.91 PC only / $1,072.90 with monitor.**
+- Re-price the complete build only after fixed-price RAM and SSD replacements are selected; never use an auction's current bid in the budget.
 
 ---
 
@@ -44,15 +45,15 @@
 
 ## Suggested buy order
 
-1. No-brainers first (strong sellers, returns): CPU → PSU → SSD → Case
+1. No-brainers first (strong sellers, returns): CPU → PSU → Case
 2. Best Offers: ~$470 on GRE, ~$60 on motherboard, ~$130 on monitor
-3. RAM last (high supply, prices drift daily)
+3. Select replacements for RAM and SSD only from listings that explicitly show **Buy It Now**; compare shipped price and return policy before adding them to the total
 
 ## Platform comparison (why this vs prebuilt)
 
 | | Prebuilt 5700X3D + RX 7600 XT | This DIY build |
 |---|---|---|
-| Total | $945.89 (PC only, no monitor) | $1,175.90 (PC + monitor) |
+| Total | $945.89 (PC only, no monitor) | $922.91 confirmed Buy It Now subtotal + RAM/SSD TBD; $1,072.90 with monitor + RAM/SSD TBD |
 | GPU perf index | 100 (RX 7600 XT) | ~137 (7900 GRE) — 37% faster |
 | CPU | 5700X3D (8C V-Cache) | 5500X3D (6C V-Cache, similar gaming perf) |
 | Risk profile | One tested unit from one seller | 8 packages, self-assembly, MBG per item |
