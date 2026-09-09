@@ -1,7 +1,7 @@
 # Gaming PC Build — eBay Used Parts ($1,200 budget)
 
 **Status:** RESEARCHED, NOT PURCHASED — BUY IT NOW / BEST OFFER ONLY
-**Prices verified live on eBay:** 2026-09-08 (US, ships to 78758)
+**Prices verified live on eBay:** 2026-09-08, 18:18 PDT (US, ships to 78758)
 **Purchase rule:** no auctions or bidding; every retained listing must show **Buy It Now** (Best Offer is allowed).
 **Budget:** $1,200 (Venmo funds) — before tax
 **Use case:** Omarchy (Arch Linux), CS2-first gaming, 1080p ultra / 1440p high-refresh, upgrade headroom
@@ -9,21 +9,22 @@
 
 ---
 
-## The build — $1,072.90 subtotal before RAM + SSD replacement
+## The build — $1,367.59 total (all fixed-price listings, with monitor)
 
 | # | Part | Listing | Price (ship) | Condition / Seller |
 |---|------|---------|--------------|--------------------|
 | 1 | **GPU** — Sapphire Pulse RX 7900 GRE 16GB | https://www.ebay.com/itm/336780580887 | $515.00 (free) | Used — aaeiken_0, 100% (108), OBO, no returns, MBG |
 | 2 | **CPU** — Ryzen 5 5500X3D | https://www.ebay.com/itm/267610189625 | $209.99 + $5.99 | **New sealed**, free returns — desolate_puppy 99.9% (5.5K), 207 sold |
 | 3 | **Motherboard** — MSI PRO B550M-VC WiFi mATX | https://www.ebay.com/itm/137710051407 | $74.95 (free) | Used — hitexstore 99.6% (173.7K), OBO, free returns |
-| 4 | **RAM** — 32GB (2×16) DDR4-3600 | **REPLACEMENT NEEDED — Buy It Now only** | — | Prior Corsair listing was an auction; do not bid |
+| 4 | **RAM** — TeamGroup T-Force Delta RGB 32GB (2×16) DDR4-3600 CL18 | https://www.ebay.com/itm/237024111678 | $174.70 (free) | Used, tested working — UselessElectronics 99.8% (5.1K), 30-day buyer-paid returns, **Buy It Now** |
 | 5 | **PSU** — Corsair RM850e 850W 80+ Gold | https://www.ebay.com/itm/227491490870 | $54.99 (free) | **Factory refurb via corsairdirect**, 100% (488), 549 sold, free returns |
-| 6 | **SSD** — 1TB Gen4 NVMe | **REPLACEMENT NEEDED — Buy It Now only** | — | Prior Crucial P310 listing was an auction; do not bid |
+| 6 | **SSD** — Crucial P310 1TB Gen4 NVMe | https://www.ebay.com/itm/327348895437 | $119.99 (free) | Used, tested working; cosmetic wear — JCS Computer Store 99.2% (88.2K), 30-day buyer-paid returns, **Buy It Now** |
 | 7 | **Case** — Phanteks XT Pro mesh mid-tower | https://www.ebay.com/itm/296236895993 | $61.99 (free) | New (Newegg on eBay), free returns |
 | 8 | **Monitor** — LG UltraGear 32GP83B-B 32″ 1440p 165Hz IPS | https://www.ebay.com/itm/377472303537 | $149.99 OBO (free) | Used — thirdwavediscounts 99.4% (26.6K), 30-day returns seller-paid, **no power cable included** (any C13 cord works) |
 
-- **Confirmed Buy It Now subtotal excluding RAM + SSD: $922.91 PC only / $1,072.90 with monitor.**
-- Re-price the complete build only after fixed-price RAM and SSD replacements are selected; never use an auction's current bid in the budget.
+- **PC only: $1,217.60** — $17.60 above the pre-tax tower budget.
+- **PC + monitor: $1,367.59** — $167.59 above the pre-tax $1,200 budget; sales tax would add more.
+- Fixed-price RAM and SSD currently cost far more than their auction placeholders. Do not substitute auction current bids into the total.
 
 ---
 
@@ -47,13 +48,13 @@
 
 1. No-brainers first (strong sellers, returns): CPU → PSU → Case
 2. Best Offers: ~$470 on GRE, ~$60 on motherboard, ~$130 on monitor
-3. Select replacements for RAM and SSD only from listings that explicitly show **Buy It Now**; compare shipped price and return policy before adding them to the total
+3. Fixed-price replacements: RAM and SSD are valid **Buy It Now** listings, but both should be re-checked for price and condition immediately before purchase
 
 ## Platform comparison (why this vs prebuilt)
 
 | | Prebuilt 5700X3D + RX 7600 XT | This DIY build |
 |---|---|---|
-| Total | $945.89 (PC only, no monitor) | $922.91 confirmed Buy It Now subtotal + RAM/SSD TBD; $1,072.90 with monitor + RAM/SSD TBD |
+| Total | $945.89 (PC only, no monitor) | $1,217.60 PC only / $1,367.59 with monitor (all fixed-price listings) |
 | GPU perf index | 100 (RX 7600 XT) | ~137 (7900 GRE) — 37% faster |
 | CPU | 5700X3D (8C V-Cache) | 5500X3D (6C V-Cache, similar gaming perf) |
 | Risk profile | One tested unit from one seller | 8 packages, self-assembly, MBG per item |
