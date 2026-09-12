@@ -19,9 +19,9 @@
 | 8 | **Case** — Phanteks XT Pro mesh mid-tower | https://www.ebay.com/itm/296236895993 | $61.99 (free) | **New** (Newegg on eBay) 99.6%, 30-day seller-paid returns | Includes only 1 rear fan — **budget $15–25 for a 3-pack front intake** (not in totals). All clearances fit with margin |
 | 9 | **Monitor** — LG UltraGear 32GP83B-B 32″ 1440p IPS | https://www.ebay.com/itm/227135362251 | $139.99 (free) | Used — JNA Distributions 99.5% (76K sold), 30-day seller-paid returns | Already the cheap end of 1440p/165Hz — defer if over budget rather than swap (Samsung G5 is $10 more for VA) |
 
-**Totals (pre-tax):** PC only **$1,319.81** ($119.81 over budget; ~$1,335–1,345 with fans) · PC + monitor **$1,459.80** · TX tax ~8.25% adds ≈ $108.88 on the tower.
+**Totals:** PC only **$1,319.81 pre-tax / ~$1,428.69 with TX sales tax** (~8.25% ≈ $108.88; $119.81 over the $1,200 pre-tax budget) · PC + monitor **$1,459.80 pre-tax / ~$1,580.23 with tax** (tax ≈ $120.43) · fans add $15–25 pre-tax (~$16–27 with tax, not in totals).
 
-**Path back under budget:** SSD coupon (−$6) + GPU offer at ~$540 (−$60) + cooler offer (−$3) + defer monitor (−$140) → **~$1,195–1,215 with fans**, no V-Cache sacrifice. Buy RAM/CPU/PSU/case promptly to lock prices.
+**Path back under budget:** SSD coupon (−$6) + GPU offer at ~$540 (−$60) + cooler offer (−$3) + defer monitor (−$140) → **~$1,195–1,215 pre-tax with fans (~$1,294–1,315 with tax)**, no V-Cache sacrifice. Budget is pre-tax, so this fits; if the $1,200 must cover tax, deferring the monitor alone isn't enough — also take a ~$75–95 GPU Best Offer or re-shop RAM at ≤$150. Buy RAM/CPU/PSU/case promptly to lock prices.
 
 **Buy order:** CPU → cooler → PSU → case first (strong sellers, returns); flash BIOS `7C95vHD` before installing the CPU; re-verify RAM/SSD immediately before purchase; listings expire — re-check all before ordering; **human confirms final order placement (no auto-purchase)**.
 
