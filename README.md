@@ -61,6 +61,26 @@
 - **Drop-in 5700X3D** on AM4 when used prices normalize (~$230) — board supports it
 - Second M.2 slot free; 850W PSU leaves GPU headroom for future upgrades
 
+## Physical fit check (verified 2026-09-11 from manufacturer specs)
+
+Case limits — Phanteks XT Pro (PH-XT523P1_BK01; 450 × 230 × 500 mm; ATX/micro-ATX/mini-ITX, 7 PCI slots):
+**GPU 415 mm long / 184 mm wide, CPU cooler 184 mm tall, PSU 270 mm long.**
+
+| Component | Actual | Limit | Margin |
+|---|---|---|---|
+| GPU — Sapphire PULSE RX 7900 XT (11323-02-20G) | 313 × 133.75 × 52.67 mm, 2.7-slot | 415 × 184 mm | 102 mm length, 50 mm width |
+| CPU cooler — Thermalright Assassin X 120 R SE | 148 mm tall (46 mm wide heatsink + 25 mm fan) | 184 mm | 36 mm (≈26 mm if the fan is raised for RAM) |
+| PSU — Corsair RM850e | 140 × 150 × 86 mm | 270 mm | 130 mm |
+| Motherboard — MSI PRO B550M-VC WiFi | micro-ATX 244 × 244 mm | ATX / micro-ATX | — |
+| RAM — G.Skill Ripjaws V | 42 mm tall | not published by PCPartPicker | see note |
+
+- **RAM ↔ cooler is the one fit nobody validates.** PCPartPicker states outright: "Some physical constraints are not checked, such as RAM clearance with CPU Coolers." The Assassin X 120 R SE's fan clears roughly 38 mm; Ripjaws V is 42 mm, so the fan rides up ~5 mm. Final cooler height ≈153 mm — still ~30 mm inside the 184 mm limit. Not a blocker either way.
+- **GPU power:** card needs 2 × 8-pin PCIe. RM850e supplies 3 PCIe 8-pin connectors (1 native cable + 2 via the bundled 12V-2x6 → dual 8-pin cable). **Confirm the refurb ships its cable set.**
+- **GPU weight ≈ 2 kg** — Sapphire includes a support bracket; use it.
+- **Front USB-C works:** the case has a front USB-C 3.0 and the board exposes a USB 3.2 Gen1 Type-C header.
+- **Cooling, not fit:** the case includes only 1 × M25-120 (rear). A 331 W GPU wants front intakes — the XT Pro takes 10 × 120 mm. Budget ~$15–25 for a 3-pack.
+- PCPartPicker flags only one real compatibility issue: the **BIOS 7C95vHD warning** for the 5500X3D (already covered in the buy order).
+
 ## Suggested buy order
 
 1. No-brainers first (strong sellers, returns): CPU → CPU cooler → PSU → Case
