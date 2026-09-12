@@ -10,11 +10,11 @@
 
 ---
 
-## The build — $1,499.80 total (all fixed-price listings, with monitor)
+## The build — $1,459.80 total (all fixed-price listings, with monitor)
 
 | # | Part | Listing | Price (ship) | Condition / Seller |
 |---|------|---------|--------------|--------------------|
-| 1 | **GPU** — ASRock Radeon RX 7900 GRE Challenger 16GB (RX7900GRE CL 16GO) | https://www.ebay.com/itm/117346127022 | $639.99 (free) | **Used** — wazno 99.7% (43.7K); Buy It Now / Add to cart; 30-day seller-paid returns |
+| 1 | **GPU** — Sapphire NITRO+ RX 7900 GRE 16GB (11325-02-20G) | https://www.ebay.com/itm/366572929871 | $569.99 + $30.00 | **Used** — zdcomp_79 100% (23); Buy It Now / Best Offer; no returns, eBay Money Back Guarantee only |
 | 2 | **CPU** — Ryzen 5 5500X3D | https://www.ebay.com/itm/267610189625 | $209.99 + $5.99 | **New**, free returns — desolate_puppy 99.9% (5.6K), 14 available |
 | 3 | **CPU cooler** — Thermalright Assassin X120 Refined SE | https://www.ebay.com/itm/137229400193 | $24.93 (free) | **New**, Buy It Now / Best Offer — 99.7% seller, 3 available, 30-day buyer-paid returns |
 | 4 | **Motherboard** — MSI PRO B550M-VC WiFi mATX | https://www.ebay.com/itm/137672799035 | $70.00 + $9.95 | Used — GadgetPulseFL 99% (204), 30-day buyer-paid returns |
@@ -24,10 +24,10 @@
 | 8 | **Case** — Phanteks XT Pro mesh mid-tower | https://www.ebay.com/itm/296236895993 | $61.99 (free) | **New** (Newegg on eBay) 99.6%, 50 available, 30-day seller-paid returns |
 | 9 | **Monitor** — LG UltraGear 32GP83B-B 32″ 1440p IPS | https://www.ebay.com/itm/227135362251 | $139.99 (free) | Used, "works great — read description" — JNA Distributions 99.5% (20K fb / 76K sold), 30-day seller-paid returns |
 
-- **PC only: $1,359.81** — $159.81 above the pre-tax tower budget.
-- **PC + monitor: $1,499.80** — $299.80 above the pre-tax $1,200 budget; sales tax would add more.
-- Replacement is a **used RX 7900 GRE** from a well-established eBay seller: $639.99 delivered, $14.05 above the sold new 7900 XT. It is roughly 10% slower than the 7900 XT and has 16 GB rather than 20 GB VRAM, but is the best live used listing that cleared seller/return screening.
-- Estimated **TX sales tax ~8.25%** on the tower: ≈ $112.18 → **~$1,471.99 PC-only out the door.**
+- **PC only: $1,319.81** — $119.81 above the pre-tax tower budget.
+- **PC + monitor: $1,459.80** — $259.80 above the pre-tax $1,200 budget; sales tax would add more.
+- Replacement is a **used Sapphire NITRO+ RX 7900 GRE** at $599.99 delivered — $25.95 below the sold 7900 XT and $40 below the stronger-seller ASRock GRE. The tradeoff is real: a newer seller (23 feedback, joined Jul 2026) and no voluntary returns; eBay Money Back Guarantee remains for an item that is not as described or does not arrive.
+- Estimated **TX sales tax ~8.25%** on the tower: ≈ $108.88 → **~$1,428.69 PC-only out the door.**
 
 ---
 
@@ -68,15 +68,15 @@ Case limits — Phanteks XT Pro (PH-XT523P1_BK01; 450 × 230 × 500 mm; ATX/micr
 
 | Component | Actual | Limit | Margin |
 |---|---|---|---|
-| GPU — ASRock RX 7900 GRE Challenger (RX7900GRE CL 16GO) | 269 × 130 × 51 mm, 2.55-slot | 415 × 184 mm | 146 mm length, 54 mm width |
+| GPU — Sapphire NITRO+ RX 7900 GRE (11325-02-20G) | 320 × 134.85 × 61.57 mm, 3-slot | 415 × 184 mm | 95 mm length, 49 mm width |
 | CPU cooler — Thermalright Assassin X 120 R SE | 148 mm tall (46 mm wide heatsink + 25 mm fan) | 184 mm | 36 mm (≈26 mm if the fan is raised for RAM) |
 | PSU — Corsair RM850e | 140 × 150 × 86 mm | 270 mm | 130 mm |
 | Motherboard — MSI PRO B550M-VC WiFi | micro-ATX 244 × 244 mm | ATX / micro-ATX | — |
 | RAM — G.Skill Ripjaws V | 42 mm tall | not published by PCPartPicker | see note |
 
 - **RAM ↔ cooler is the one fit nobody validates.** PCPartPicker states outright: "Some physical constraints are not checked, such as RAM clearance with CPU Coolers." The Assassin X 120 R SE's fan clears roughly 38 mm; Ripjaws V is 42 mm, so the fan rides up ~5 mm. Final cooler height ≈153 mm — still ~30 mm inside the 184 mm limit. Not a blocker either way.
-- **GPU power:** 260 W card needs 2 × 8-pin PCIe; the RM850e's 850 W rating exceeds the card's 750 W recommendation. **Confirm the refurb ships its cable set.**
-- **GPU weight / cooling:** 2.55-slot Challenger fits easily; the XT Pro still needs front intakes (it includes only 1 × M25-120 rear fan). Budget ~$15–25 for a 3-pack.
+- **GPU power:** 295 W card needs 2 × 8-pin PCIe; the RM850e's 850 W rating exceeds the card's 700 W recommendation. **Confirm the refurb ships its cable set.**
+- **GPU weight / cooling:** 3-slot NITRO+ fits easily; the XT Pro still needs front intakes (it includes only 1 × M25-120 rear fan). Budget ~$15–25 for a 3-pack.
 - **Front USB-C works:** the case has a front USB-C 3.0 and the board exposes a USB 3.2 Gen1 Type-C header.
 - PCPartPicker flags only one real compatibility issue: the **BIOS 7C95vHD warning** for the 5500X3D (already covered in the buy order).
 
@@ -84,7 +84,7 @@ Case limits — Phanteks XT Pro (PH-XT523P1_BK01; 450 × 230 × 500 mm; ATX/micr
 
 1. No-brainers first (strong sellers, returns): CPU → CPU cooler → PSU → Case
 2. **Before installing the CPU:** use the board's Flash BIOS Button to install BIOS `7C95vHD` or newer from MSI. The 5500X3D requires that version; an older board BIOS may not boot it.
-3. The retained RX 7900 GRE is fixed-price at $639.99 with seller-paid returns; do not substitute the cheap zero-/low-feedback, no-return GPU listings surfaced by eBay.
+3. The retained RX 7900 GRE is $599.99 delivered, with Best Offer enabled. Its seller is newer and has no voluntary returns; inspect the listing photos and serial label before committing.
 4. Re-check RAM and SSD for price/condition immediately before purchase — DDR4 kits are drifting up ($150 → $175 over three days of checks)
 
 ## Platform comparison (why this vs prebuilt)
