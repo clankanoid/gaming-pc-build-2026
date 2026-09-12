@@ -1,6 +1,7 @@
 # Gaming PC Build — eBay Used Parts ($1,200 budget)
 
 **Status:** RESEARCHED, NOT PURCHASED — BUY IT NOW / BEST OFFER ONLY
+**PCPartPicker mirror (retail prices, editable copy of the old CTFvqd list):** https://pcpartpicker.com/list/ZdR7ph — updated 2026-09-11
 **Prices verified live on eBay:** 2026-09-11, 15:16–15:27 PDT (all 9 listings + replacements, US, ships to 78758)
 **Purchase rule:** no auctions or bidding; every retained listing must show **Buy It Now** (Best Offer is allowed).
 **Budget:** $1,200 (Venmo funds) — before tax
