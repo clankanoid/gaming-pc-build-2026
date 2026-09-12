@@ -56,6 +56,23 @@
 | Monitor: Samsung Odyssey G5 32″ 165Hz | https://www.ebay.com/itm/365833789297 | $149.99 | VA curved vs LG IPS |
 | ⚠ RAM warning | 32GB DDR4-3600 kits at $130–$140 (e.g. itm/188911173931, itm/318850130956, itm/366511906570) | — | All listed by **zero-feedback accounts created Sep 2026**. Avoid regardless of price. |
 
+## Savings opportunities (identified 2026-09-11)
+
+Tower is **$1,319.81 — $119.81 over** the $1,200 pre-tax budget, and the physical fit check adds an **unbudgeted $15–25 for case fans** (real PC cost ~$1,335–1,345). Ranked by impact:
+
+| # | Opportunity | Saving | Notes |
+|---|---|---|---|
+| 1 | **GPU Best Offer** — Sapphire seller enables BO | ~$50–70 | Offer $530–550; matches the ASRock alternate's $586.65 delivered. Biggest single lever. |
+| 2 | **Apply the SSD on-page coupon** | $6 | P310 is $113.99 with coupon; the $1,459.80 total uses $119.99. Free money. |
+| 3 | **Cooler Best Offer** | ~$2–3 | Minor but free — BO enabled on the Assassin X listing. |
+| 4 | **Defer the monitor** | $139.99 | Tower-only drops to ~$1,180–1,205. The $139.99 LG is already the cheap end of 1440p/165Hz; defer rather than swap. |
+| 5 | **Timing over swaps** | risk avoidance | RAM drifting $150→$175 — buy RAM/CPU/PSU/case now to lock prices instead of chasing cheaper listings. |
+| 6 | **CPU → used 5700X (non-X3D)** | ~$73 | Last resort — bigger CS2 hit than any GPU downgrade; contradicts the V-Cache-first decision. |
+
+**Avoid:** $130–140 DDR4-3600 kits (zero-feedback scam sellers), XFX 7900 GRE (10 feedback, no returns), Samsung G5 monitor ($10 more than the LG for VA).
+
+**Realistic path:** coupon + both Best Offers + defer monitor → PC-only ≈ $1,250–1,270 before fans; GPU offer accepted at ~$540 → **~$1,195–1,215 with fans**, no V-Cache sacrifice.
+
 ## Upgrade path
 
 - **Drop-in 5700X3D** on AM4 when used prices normalize (~$230) — board supports it
@@ -91,7 +108,7 @@ Case limits — Phanteks XT Pro (PH-XT523P1_BK01; 450 × 230 × 500 mm; ATX/micr
 
 | | Prebuilt 5700X3D + RX 7600 XT | This DIY build |
 |---|---|---|
-| Total | $945.89 (PC only, no monitor) | $1,359.81 PC only / $1,499.80 with monitor (all fixed-price listings) |
+| Total | $945.89 (PC only, no monitor) | $1,319.81 PC only / $1,459.80 with monitor (all fixed-price listings) |
 | GPU perf index | 100 (RX 7600 XT) | RX 7900 GRE — materially faster; exact index depends on game/settings |
 | CPU | 5700X3D (8C V-Cache) | 5500X3D (6C V-Cache, similar gaming perf) |
 | Risk profile | One tested unit from one seller | 9 packages, self-assembly, MBG per item |
